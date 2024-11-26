@@ -1,7 +1,7 @@
 
 # Welcome to **Zirwa Creative Space**!
 
-Hello there! I'm **Zirwa**, a creative soul who loves to blend coding with art. This repository showcases my journey in coding, animation, digital artwork, and all the fun things I love to explore!
+Hello there! I'm 🖐 **Zirwa**, a creative soul who loves to blend coding with art. This repository showcases my journey in coding, animation, digital artwork, and all the fun things I love to explore!
 
 ## What's Inside:
 
@@ -16,16 +16,7 @@ Hello there! I'm **Zirwa**, a creative soul who loves to blend coding with art. 
 - **Animation & Digital Art**
 - **Creative Coding** (Integrating art and code)
 
-programming-languages-info/
-├── README.md
-├── images/
-│   ├── python-logo.png
-│   ├── javascript-logo.png
-│   └── ...
-└── tools/
-    ├── python-tools.txt
-    ├── javascript-tools.txt
-    └── ...
+
 ## How You Can Contribute:
 
 Feel free to fork this repository, make suggestions, or even collaborate with me on exciting projects! Let's create something amazing together.
@@ -34,7 +25,7 @@ Feel free to fork this repository, make suggestions, or even collaborate with me
 
 ## Information about Zirwa:
 - Zirwa is learning various programming languages and tools.
-- Interests: Coding, Animation, AI, Hacking.
+- Interests: Coding, Animation.
 
 ## Programming Languages & Tools:
 ### 1. Python:
