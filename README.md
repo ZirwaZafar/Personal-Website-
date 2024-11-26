@@ -20,8 +20,7 @@ Hello there! I'm 🖐 **Zirwa**, a creative soul who loves to blend coding with 
 ## How You Can Contribute:
 
 Feel free to fork this repository, make suggestions, or even collaborate with me on exciting projects! Let's create something amazing together.
-![Python Logo](path/to/python-logo.png)
-# Zirwa Programming Tools Repository
+
 
 ## Information about Zirwa:
 - Zirwa is learning various programming languages and tools.
