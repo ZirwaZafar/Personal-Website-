@@ -1,7 +1,7 @@
 
-# Welcome to **Zriiii's Creative Space**!
+# Welcome to **Zirwa Creative Space**!
 
-Hello there! I'm **Zriiii**, a creative soul who loves to blend coding with art. This repository showcases my journey in coding, animation, digital artwork, and all the fun things I love to explore!
+Hello there! I'm **Zirwa**, a creative soul who loves to blend coding with art. This repository showcases my journey in coding, animation, digital artwork, and all the fun things I love to explore!
 
 ## What's Inside:
 
@@ -24,7 +24,7 @@ Feel free to fork this repository, make suggestions, or even collaborate with me
 
 ## Contact Me:
 
-- GitHub: [Zriiii's GitHub](https://github.com/Zriiii)
+- GitHub: [Zirwa GitHub](https://github.com/Zirwa)
 - Email: zriiii@example.com
 - Instagram: @ZriiiiCreative
 
