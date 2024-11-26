@@ -41,7 +41,7 @@ Feel free to fork this repository, make suggestions, or even collaborate with me
 
 - GitHub: [Zirwa GitHub](https://github.com/Zirwa)
 - Email: zriiii@example.com
-- Instagram: @ZriiiiCreative
+
 
 Thanks for visiting my space! 🌟
 
