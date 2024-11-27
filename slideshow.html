@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Automatic Slideshow</title>
+  <style>
+    .slideshow-container {
+      width: 100%;
+      max-width: 500px;
+      position: relative;
+      margin: auto;
+    }
+
+    .slides {
+      display: none;
+      width: 100%;
+    }
+
+    .slideshow-container img {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    @keyframes fade {
+      0% { opacity: 0; }
+      20% { opacity: 1; }
+      80% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+
+    .fade {
+      animation: fade 5s infinite;
+    }
+  </style>
+</head>
+<body>
+  <div class="slideshow-container">
+    <img src="image1.jpg" class="slides fade">
+    <img src="image2.jpg" class="slides fade">
+    <img src="image3.jpg" class="slides fade">
+  </div>
+
+  <script>
+    let slideIndex = 0;
+
+    function showSlides() {
+      let slides = document.getElementsByClassName("slides");
+      for (let i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      slideIndex++;
+      if (slideIndex > slides.length) {slideIndex = 1}
+      slides[slideIndex-1].style.display = "block";
+      setTimeout(showSlides, 5000); // Change image every 5 seconds
+    }
+
+    showSlides();
+  </script>
+</body>
+</html>
