@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 🖐, I'm ZirwaZafar</h1> 
-<h3 align="center">Generative AI | HTML | CSS | Modern Javascript|  </h3>
+<h3 align="center"> HTML | CSS | Modern Javascript|  </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZirwaZafar" alt="ZirwaZafar" /></a> </p>
-- 💦 I’m currently learning **Web Specialists**
 <a href="https://stackoverflow.com/users/ZirwaZafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zirwazafar479833" height="30" width="40" /></a>
 <a href="https://kaggle.com/Zirwa-Zafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Zirwa-Zafar" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
