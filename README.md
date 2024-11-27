@@ -1,4 +1,6 @@
-<h1 align="center">Hi 🖐, I'm ZirwaZafar</h1> 
+
+
+---<h1 align="center">Hi 🖐, I'm ZirwaZafar</h1> 
 <h3 align="center"> HTML | CSS | Modern Javascript|  </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZirwaZafar" alt="ZirwaZafar" /></a> </p>
@@ -15,5 +17,3 @@
 
 
 Thanks for visiting my space! 🌟
-
----
